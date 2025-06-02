@@ -3,7 +3,7 @@ import random
 import time
 
 # Initialize Pygame
-pygame.init()
+pygame.init() 
 
 # Screen dimensions
 WIDTH, HEIGHT = 840, 480
